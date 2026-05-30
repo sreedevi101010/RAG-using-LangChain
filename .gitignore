@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Dataset
+data/pdf/
+
+# Generated vector stores
+faiss_store/
+notebook/data/vector_store/
+
+# Jupyter
+.ipynb_checkpoints/
